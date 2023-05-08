@@ -1,0 +1,84 @@
+body{
+    background-image: url("./imgs/4k\ gif.gif");
+    background-size: cover;
+
+}
+
+
+#title 
+ { 
+    text-align: center;
+
+    color: rgb(0, 0, 0);
+
+    font-size: 100px;
+}
+
+.Motherboard ,.item1{
+    font-size: 40px;
+    padding: 5px;
+    text-align: left;
+    background-color: #050404;
+    border: solid 1px #c3c3c3;
+    color: white;
+}
+
+
+
+  .item1{
+    padding: 50px;
+    display: none;
+  }
+
+
+ .gpu , .itemofgpu {
+    font-size: 40px;
+    padding: 5px;
+    text-align: left;
+    background-color: #050404;
+    border: solid 1px #c3c3c3;
+    color: white;
+  }
+
+
+
+  .itemofgpu {
+    padding: 50px;
+    display: none;
+  }
+
+
+ .cpu , .item {
+    font-size: 40px;
+    padding: 5px;
+    text-align: left;
+    background-color: #050404;
+    border: solid 1px #c3c3c3;
+    color: white;
+  }
+
+
+  .item {
+    padding: 50px;
+    display: none;
+  }
+
+
+
+
+  .algnvideo{ 
+
+    position: absolute;
+  left: 300px;
+  top: 300px;
+  position: relative;
+  left: -20px;
+  }
+
+
+  #title{ 
+
+    color:white;
+    font-size: 400px;
+    background-clip: initial;
+  }
